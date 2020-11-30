@@ -26,4 +26,4 @@ deriving maximum performance with respect to response times for accessing the da
 store.
 1. The size of the file storing data must never exceed 1GB.
 
-### Go through fucntional_req.py then operational.py you can look up the test cases on freshdesk_assignment
+### Go through fucntional_req.py then operational.py you can look up the test cases on test_cases
